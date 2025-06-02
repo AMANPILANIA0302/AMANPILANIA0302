@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, Aman Pilania</h1>
 
 <p align="center">
-<a href="www.linkedin.com/in/aman-pilania-446816292" target="_blank">
+<a href="https://www.linkedin.com/in/aman-pilania-446816292" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/AMANPILANIA0302" target="_blank">
